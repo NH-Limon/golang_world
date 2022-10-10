@@ -1,0 +1,7 @@
+* The fmt.Scanln method tells the computer to wait for input from the keyboard ending with a new line or (\n), character.
+
+* Go does not support string interpolation.
+
+* In a string, pressing the ENTER key creates a special character that creates a new line.
+
+* The strings.TrimSpace function removes any space characters, including new lines, from the start and end of a string.

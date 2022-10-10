@@ -1,0 +1,13 @@
+* Go was designed to have all three available at the same time: fast compilation, ease of programming, and efficient execution in production.
+
+* Source files are used by the Go compiler to create an executable binary file.
+
+* package is a Go keyword that defines which code bundle this file belongs to.
+
+* import is a Go keyword that tells the Go compiler which other packages you want to use in this file.
+
+* The fmt package provides formatting and printing functions that can be useful when developing.
+
+* Go programs need to compile before they run. When you call go run with the name of a file, in this case hello.go, the go command will compile the application and then run the resulting binary.
+
+* Go applications require a main package and exactly one main() function that serves as the entry point for the application.
